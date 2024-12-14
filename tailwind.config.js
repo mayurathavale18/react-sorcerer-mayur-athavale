@@ -9,5 +9,5 @@ export default {
       "text-red": "#ff0000",
     },
   },
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [],
 };

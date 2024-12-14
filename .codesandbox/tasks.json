@@ -4,6 +4,10 @@
     {
       "command": "yarn install",
       "name": "Install Dependencies"
+    },
+    {
+      "command": "yarn install tailwindcss postcss autoprefixer",
+      "name": "Install Tailwindcss with postcss config"
     }
   ],
 
